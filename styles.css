@@ -1,0 +1,68 @@
+/* Global page styling */
+body {
+    background-color: #DBFFEA;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Main title */
+h1 {
+    text-align: center;
+    font-weight: 400;
+    color: #333333;
+}
+
+/* Section headers */
+h2 {
+    color: #4A90E2;
+}
+
+h3 {
+    color: #333333;
+}
+
+/* Navigation */
+nav {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #DBF1FF;
+    padding: 10px;
+}
+
+nav a {
+    color: #4A90E2;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: 500;
+}
+
+nav a:hover {
+    color: #A0F2DE;
+    text-decoration: underline;
+}
+
+/* Content container */
+div {
+    background-color: #DBFFDE;
+    padding: 15px;
+    margin: 20px auto;
+    width: 60%;
+    border-radius: 10px;
+}
+
+/* Optional highlight box */
+.highlight {
+    background-color: #DBFCFF;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+/* Footer (if you add one later) */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #A0F2DE;
+    color: #333333;
+}
