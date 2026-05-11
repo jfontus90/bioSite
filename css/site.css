@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #DBFFEA;
+    color: #333333;
+}
+
+/* HEADER */
+header {
+    background-color: #A0F2DE;
+    padding: 20px;
+    text-align: center;
+}
+
+/* NAVIGATION */
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #333333;
+    font-weight: bold;
+}
+
+/* MAIN SECTION */
+main {
+    padding: 20px;
+}
+
+/* CONTENT BOX */
+.content {
+    max-width: 900px;
+    margin: auto;
+    background-color: #DBFFDE;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* IMAGES (THIS FIXES SIZE ISSUE) */
+img {
+    width: 100%;
+    max-width: 250px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+/* CAPTION */
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
+
+/* FOOTER */
+footer {
+    background-color: #A0F2DE;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
